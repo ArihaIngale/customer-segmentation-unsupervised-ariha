@@ -16,7 +16,10 @@ This project applies unsupervised learning techniques to discover meaningful cus
 
 
 
-# Dataset Description
+# Dataset 
+Download from Kaggle: [Online Retail Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+Place in `data/raw/online_retail.csv`
+Used only 5000 dataset from it 
 The dataset contains customer purchasing and behavioral data.
 
 Key features used in this project include:
